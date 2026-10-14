@@ -1,0 +1,8 @@
+.build/
+build/
+*.app
+.DS_Store
+.swiftpm/
+
+# The specimen page embeds the fonts it shows, so it stays out of the repo.
+Nerd Font Specimens.html
